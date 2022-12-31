@@ -1,0 +1,65 @@
+0	snaketemple_pawn_1	snaketemple_pawn
+0	snaketemple_s_pawn_1	snaketemple_s_pawn
+0	snaketemple_knight03_1	snaketemple_knight03
+0	snaketemple_knight01_1	snaketemple_knight01
+0	snaketemple_knight02_1	snaketemple_knight02
+0	snaketemple_pawn_2	snaketemple_pawn
+0	snaketemple_s_pawn_2	snaketemple_s_pawn
+0	snaketemple_knight03_2	snaketemple_knight03
+0	snaketemple_knight01_2	snaketemple_knight01
+0	snaketemple_knight02_2	snaketemple_knight02
+0	snaketemple_s_knight_2	snaketemple_s_knight
+0	snaketemple_boss_2	snaketemple_boss
+0	snakevalley_pawn_1	snakevalley_pawn
+0	snakevalley_s_pawn_1	snakevalley_s_pawn
+0	snakevalley_knight_1	snakevalley_knight
+0	snakevalley_s_knight_1	snakevalley_s_knight
+0	snakevalley_knight02_1	snakevalley_knight02
+0	snakevalley_boss_1	snakevalley_boss
+0	snakevalley_pawn_2	snakevalley_pawn
+0	snakevalley_s_pawn_2	snakevalley_s_pawn
+0	snakevalley_knight_2	snakevalley_knight
+0	snakevalley_s_knight_2	snakevalley_s_knight
+0	snakevalley_knight02_2	snakevalley_knight02
+0	snakevalley_knight03_2	snakevalley_knight03
+0	snakevalley_boss_2	snakevalley_boss
+0	metinstone_snake_1	metinstone_snake
+0	metinstone_snake_2	metinstone_snake
+0	metinstone_snake_3	metinstone_snake
+0	metinstone_snake_4	metinstone_snake
+0	metinstone_snake_5	metinstone_snake
+4023	warp_blue
+4024	snake_head_01
+4025	snake_head_02
+4026	snake_head_03
+4027	snake_head_04
+6744	naga_warrior
+6745	naga_soldier
+6746	naga_warrior
+6747	naga_mage
+6748	naga_archer
+6749	naga_commander
+6750	snaketemple_pawn_1
+6751	snaketemple_s_pawn_1
+6752	snaketemple_knight03_1
+6753	snaketemple_knight01_1
+6754	snaketemple_knight02_1
+6755	snaketemple_s_knight
+6756	snaketemple_boss
+6757	seal_stone
+6758	snakevalley_pawn_1
+6850	snaketemple_pawn_2
+6851	snaketemple_s_pawn_2
+6852	snaketemple_knight03_2
+6853	snaketemple_knight01_2
+6854	snaketemple_knight02_2
+6855	snaketemple_s_knight_2
+6856	snaketemple_boss_2
+8068	metinstone_snake_2
+8069	metinstone_snake_3
+8070	metinstone_snake_4
+8071	metinstone_snake_5
+8075	metinstone_snake_1
+8076	metinstone_snake_1
+20829	blacksmith
+20842	snake_smith_01
