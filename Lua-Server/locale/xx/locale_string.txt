@@ -1,0 +1,32 @@
+"The dungeon will be available for %d minutes.";
+"The dungeon will be available for %d minutes.";
+
+"Defeat all the monsters. ";
+"Defeat all the monsters. ";
+
+"All members of the group advance to the next room.";
+"All members of the group advance to the next room.";
+
+"Destroyed one correct Metin, destroy %d more";
+"Destroyed one correct Metin, destroy %d more.";
+
+"Wrong Metin order, this Floor will reset.";
+"Wrong Metin order, this Floor will reset.";
+
+"Defeat the Boss group.";
+"Defeat the Boss group.";
+
+"Defeat the Boss.";
+"Defeat the Boss.";
+
+"All partecipants will be teleport in 60 seconds.";
+"All partecipants will be teleport in 60 seconds.";
+
+"A pillar has been destroyed, destroy %d more pillars.";
+"A pillar has been destroyed, destroy %d more pillars.";
+
+"Go with the Serpent BlackSmith.";
+"Go with the Serpent BlackSmith.";
+
+"Wrong order on kill Pilar";
+"Wrong order on kill Pilar.";
