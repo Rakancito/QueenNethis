@@ -1,0 +1,42 @@
+4023	Change Level
+4024	Serpent Head
+4025	Serpent Head
+4026	Serpent Head
+4027	Serpent Head
+6744	Kappa Soldier
+6745	Kappa Worker
+6746	Kappa Soldier
+6747	Kappa Wizard
+6748	Kappa Hunter
+6749	Mighty Kappa
+6750	Serpent Scorpion
+6751	Serpent Worker
+6752	Serpent Kappa
+6753	Serpent Soldier
+6754	Serpent Ascetic
+6755	Mighty Serpent Warrior
+6756	Serpent Queen Nethis
+6757	Serpent Pillar
+6758	Tainted Soldier
+6759	Tainted Skirmisher
+6760	Tainted Warrior
+6761	Tainted Monk
+6762	Tainted General
+6763	Tainted Chief
+6764	Tainted War Chief
+6765	Mighty Serpent Warrior
+6850	Serpent Scorpion
+6851	Serpent Worker
+6852	Serpent Kappa
+6853	Serpent Soldier
+6854	Serpent Butcher
+6855	Mighty Serpent Warrior
+6856	Serpent Queen Nethis
+8068	Metin Serp. Fire
+8069	Metin Serp. Ice
+8070	Metin Serp. Wind
+8071	Metin Serp. Earth
+8075	Serpent Metin
+8076	Serpent Metin
+20842	Imprisoned Blacksmith
+20829	Serpent Temple Smith

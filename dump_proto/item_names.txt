@@ -1,0 +1,6 @@
+70422	Serpent Key
+70423	Fire Serpent Shard
+70424	Ice Serpent Shard
+70425	Wind Serpent Shard
+70426	Earth Serpent Shard
+70427	Prison Key
